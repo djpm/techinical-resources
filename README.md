@@ -1,1 +1,1 @@
-# techinical-resources
+# Techinical Resources
