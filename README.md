@@ -4,5 +4,6 @@ Throughout my career, my favorite question to ask fellow software engineers and 
 
 
  - [Books Every Software Engineer Should Read](fundamental.md)
+  - [Core Computer Science](core.md)
  - [JavaScript](javascript.md)
  - [Management](management.md)
